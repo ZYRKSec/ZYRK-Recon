@@ -16,7 +16,7 @@ Tech Fingerprint	whatweb -a3	Framework, CDN, SSL & proxy leaks for next-step exp
 Copy
 [+] AI word-list 4311 lines → scan-1767.../wordlist.txt  
 [+] nmap: 12 open ports  
-[+] gobuster https://104.18.36.214:443  hits (2xx/3xx): 0  
+[+] gobuster https://192.168.0.1:443  hits (2xx/3xx): 0  
 [+] tech: 47 lines  
 scan complete → scan-1767...
 Zero positives = hardened perimeter documented; pipeline validated.
